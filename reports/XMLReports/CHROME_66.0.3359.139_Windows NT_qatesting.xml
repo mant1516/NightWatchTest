@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="qatesting"
+    errors="0" failures="0" hostname="" id="" package="qatesting" skipped="0"
+    tests="1" time="12.88" timestamp="Thu, 10 May 2018 16:11:34 GMT">
+  
+    <testcase name="Technical test QAWorks" classname="qatesting" time="12.88" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
